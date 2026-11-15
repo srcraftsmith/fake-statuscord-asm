@@ -1,0 +1,11 @@
+# Compiled binaries
+fake-statuscord-asm
+discord-rpc
+*.o
+*.out
+
+# Editor & OS files
+.DS_Store
+*.swp
+*~
+
